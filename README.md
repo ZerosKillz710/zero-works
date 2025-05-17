@@ -38,7 +38,6 @@ I'm a self-taught engineer, technician, and team leader with over a decade of ha
 
 While I'm not actively job-seeking, I'm always open to:
 - Collaborations
-- Mentorship opportunities
 - Open-source contributions (non-conflicting with my NDA work)
 - Sharing lessons learned in real-world engineering
 
