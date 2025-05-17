@@ -42,9 +42,5 @@ While I'm not actively job-seeking, I'm always open to:
 - Open-source contributions (non-conflicting with my NDA work)
 - Sharing lessons learned in real-world engineering
 
-[📧 Email Me](zerogchemlab@gmail.com)  
-
----
-
-⚡ *"Code is the easy part. Seeing the whole system—and building it with your own hands—is where the real magic is."*
+[📧 Email Me](zerogchemlab@gmail.com)
 
